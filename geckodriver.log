@@ -1,0 +1,14 @@
+1668617557434	geckodriver	INFO	Listening on 127.0.0.1:62105
+1668617560490	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62106" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SMUGLY~1\\AppData\\Local\\Temp\\rust_mozprofilehAiAfg"
+1668617560994	Marionette	INFO	Marionette enabled
+1668617560999	Marionette	INFO	Listening on port 62120
+Read port: 62120
+WebDriver BiDi listening on ws://127.0.0.1:62106
+1668617561109	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SMUGLY~1\\AppData\\Local\\Temp\\rust_mozprofilehAiAfg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62106/devtools/browser/a21ddc0d-bfee-4052-a546-b1df30829509
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 183: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.python.org."
+1668617563508	Marionette	INFO	Stopped listening on port 62120
+[Parent 1884, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
